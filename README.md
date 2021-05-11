@@ -12,6 +12,6 @@
 - 💬 Ask me about anything . [Here](https://github.com/dreamCirno/dreamCirno/issues)（有什么可以问我）
 - 📫 How to reach me ? <a href="mailto:dreamcirno9@foxmail.com">E-mail</a>（如何联系我）
 
-| 天才琪露诺 の Github 实时数据统计 | 所使用语言占比 |
-| :-------------: | :-------------: |
-| <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dreamcirno&show_icons=true&theme=tokyonight&line_height=20" alt="dreamCirno's github stats" /> | <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dreamcirno&theme=tokyonight" /> |
+<img src="https://z3.ax1x.com/2021/05/11/ga0YFA.gif" height="99" align="right"/>
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dreamcirno&show_icons=true&bg_color=50,33A6B8,81C7D4&title_color=fff&text_color=fff&theme=tokyonight&line_height=20" alt="dreamCirno's github stats" />
